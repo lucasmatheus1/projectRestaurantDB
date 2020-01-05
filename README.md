@@ -1,6 +1,6 @@
 ## Restaurante - Banco de Dados SQL
 
-![](media/MER-foto.PNG)
+![](MER-foto.PNG)
 
 O projeto foi realizado durante a disciplina de Banco de Dados no curso de Engenharia de Computação.
 
