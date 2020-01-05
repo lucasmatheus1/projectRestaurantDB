@@ -20,4 +20,4 @@ Modelo em que representamos o MER em forma de relaçoes e atributos para impleme
 
 Foi utilizado o [PHP MyAdmin](https://www.phpmyadmin.net/) para implementação dos códigos em SQL. Foram realizadas inserções, consultas e outras funções.
 
-Créditos: http://www.sis4.com/brModelo/
+Créditos: [brModelo](http://www.sis4.com/brModelo/)
